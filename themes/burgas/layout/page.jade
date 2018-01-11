@@ -1,0 +1,13 @@
+extends partial/layout
+
+block site_title
+    != page.title + " · " + config.title
+
+block container
+    .post
+        article.post-block
+            .post-content.bigger-font
+                != page.content
+
+block copyright
+    include partial/copyright

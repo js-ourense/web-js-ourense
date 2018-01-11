@@ -1,0 +1,11 @@
+menu:
+    Presentación: /
+    Reuniones: /reuniones
+    Meetup: https://www.meetup.com/es-ES/jsourense
+    Slack: "https://join.slack.com/t/javascript-ourense/shared_invite/enQtMjk2NjQyMzU0NTQ4LTA1ZjNiMDk3NGNhMTk3YjVjNzViNmM1NWVkZDZlMGQ5M2NjMjI2OGU3MDM1MTdhOTE0ZmUxMWI4ZGI5YzY2MTg"
+
+favicon: /favicon/favicon-32x32.png
+logo: /logo.png
+
+# Copyright Infomation
+startyear: 2018
