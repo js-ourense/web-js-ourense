@@ -12,7 +12,7 @@ timezone: Europe/Madrid
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://ourense.javascript.gal/
+url: https://js-ourense.github.io/
 root: /
 permalink: :year/:month/:title/
 permalink_defaults:
