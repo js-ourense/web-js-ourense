@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://ourense.javascript.gal/"/>
-  <updated>2018-01-25T17:49:42.622Z</updated>
+  <updated>2018-07-16T10:45:11.261Z</updated>
   <id>http://ourense.javascript.gal/</id>
   
   <author>
@@ -15,6 +15,70 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Charlas relámpago</title>
+    <link href="http://ourense.javascript.gal/2018/07/charlas-relampago-md/"/>
+    <id>http://ourense.javascript.gal/2018/07/charlas-relampago-md/</id>
+    <published>2018-07-16T10:43:31.000Z</published>
+    <updated>2018-07-16T10:45:11.261Z</updated>
+    
+    <content type="html"><![CDATA[<p>El Jueves, 26 de Julio, volvemos a la carga. En esta ocasión, haremos charlas relámpago.</p><h3 id="¿Que-es-una-charla-relampago"><a href="#¿Que-es-una-charla-relampago" class="headerlink" title="¿Qué és una charla relámpago?"></a>¿Qué és una charla relámpago?</h3><p>Es una minicharla de entre 7 y 10 minutos de cualquier tema relacionado con JavaScript. Las charlas no tienen ronda de preguntas, pero puedes preguntar durante el tiempo de networking.</p><h3 id="¿Como-proponer-una-charla"><a href="#¿Como-proponer-una-charla" class="headerlink" title="¿Cómo proponer una charla?"></a>¿Cómo proponer una charla?</h3><ul><li>A través de el <a href="https://join.slack.com/t/javascript-ourense/shared_invite/enQtMjk2NjQyMzU0NTQ4LTA1ZjNiMDk3NGNhMTk3YjVjNzViNmM1NWVkZDZlMGQ5M2NjMjI2OGU3MDM1MTdhOTE0ZmUxMWI4ZGI5YzY2MTg" target="_blank" rel="noopener">Slack de JavaScript Ourense</a></li><li>En la propia reunión: antes de empezar preguntaremos quién quiere presentar.</li></ul><h3 id="AGENDA"><a href="#AGENDA" class="headerlink" title="AGENDA"></a>AGENDA</h3><p>20:00 - 21:00 Charlas relámpago<br>21:00 Tiempo de Networking</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;El Jueves, 26 de Julio, volvemos a la carga. En esta ocasión, haremos charlas relámpago.&lt;/p&gt;
+&lt;h3 id=&quot;¿Que-es-una-charla-relampago&quot;&gt;&lt;a hre
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Introducción a React Native</title>
+    <link href="http://ourense.javascript.gal/2018/06/react-native-introduccion/"/>
+    <id>http://ourense.javascript.gal/2018/06/react-native-introduccion/</id>
+    <published>2018-06-21T18:11:41.000Z</published>
+    <updated>2018-07-16T10:43:09.841Z</updated>
+    
+    <content type="html"><![CDATA[<p>El Jueves, 21 de Junio, con la llegada del verano, tenemos la cuarta reunión del grupo. Esta vez Martín nos explicará cómo hacer una aplicación móvil de forma sencilla utilizando React Native.</p><img src="/2018/06/react-native-introduccion/martin.react.native.2018.06.21.png"><p>Descripción de la charla:</p><p>Martín nos pondrá al día de las últimas novedades de React Native. Nos mostrará ejemplos muy útiles, y al final de la charla, seguro que todos sabremos como hacer un “Hola mundo” en React Native ¡Y sólo tenemos que saber JavaScript!</p><p>React Native: permite crear aplicaciones móviles usando solo JavaScript. Utiliza el mismo diseño que React, lo que le permite componer una interfaz de usuario móvil rica a partir de componentes declarativos… (Fuente: <a href="https://facebook.github.io/react-native/" target="_blank" rel="noopener">Facebook React Native</a>).</p><p>Ponente: Martín Molina</p><p>AGENDA<br>20:00 - 21:10 =&gt; Charla<br>21:10 =&gt; Tiempo de Networking</p><p>Si quieres venir, confirma tu asistencia <a href="https://www.meetup.com/es-ES/jsourense/" target="_blank" rel="noopener">en Meetup</a>.</p><p>La charla es en <a href="http://magmaespacio.es/" target="_blank" rel="noopener">Magma Espacio</a>, <a href="https://www.google.com/maps/place/R%C3%BAa+Bedoya,+27,+32004+Ourense/@42.33913,-7.86022,17z/data=!3m1!4b1!4m5!3m4!1s0xd2ffec7c1fb1ed9:0xa0273bd578731d1e!8m2!3d42.33913!4d-7.86022?api=1&amp;query=R%C3%BAa+Bedoya%2C+27%2C+32004+Ourense%2C+Ourense%2C+es" target="_blank" rel="noopener">Rua Bedoya 27 Bajo</a> a las 20:00.</p><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2949.1591564000264!2d-7.860220000000001!3d42.33913!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd2ffec7c1fb1ed9%3A0xa0273bd578731d1e!2sR%C3%BAa+Bedoya%2C+27%2C+32004+Ourense!5e0!3m2!1sen!2ses!4v1515609233505" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;El Jueves, 21 de Junio, con la llegada del verano, tenemos la cuarta reunión del grupo. Esta vez Martín nos explicará cómo hacer una apli
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Visualizando datos con D3</title>
+    <link href="http://ourense.javascript.gal/2018/03/visualizando-datos-con-d3/"/>
+    <id>http://ourense.javascript.gal/2018/03/visualizando-datos-con-d3/</id>
+    <published>2018-03-15T17:38:41.000Z</published>
+    <updated>2018-03-05T16:17:57.195Z</updated>
+    
+    <content type="html"><![CDATA[<p>El Jueves, 15 de Marzo, tenemos la tercera reunión del grupo. Esta vez Fabio nos explicará cómo visualizar datos de forma sencilla con la librería de gráficos D3.</p><img src="/2018/03/visualizando-datos-con-d3/fabio.d3.png"><p>Descripción de la charla:</p><p>Fabio nos pondrá al día de las últimas novedades de la Librería D3. Nos mostrará ejemplos muy útiles que darán vida a nuestras aplicaciones ¡Y sólo tenemos que saber JavaScript!</p><p>D3.js (o simplemente D3 por las siglas de Data-Driven Documents) es una librería de JavaScript para producir, a partir de datos, infogramas dinámicos e interactivos en navegadores web. Hace uso de tecnologías bien sustentadas como SVG, HTML5, y CSS. (Fuente: <a href="https://es.wikipedia.org/wiki/D3.js" target="_blank" rel="noopener">Wikipedia</a>).</p><p>Ponente: Fabio Souto</p><p>AGENDA<br>20:00 - 21:10 =&gt; Charla<br>21:10 =&gt; Tiempo de Networking</p><p>Si quieres venir, confirma tu asistencia <a href="https://www.meetup.com/es-ES/jsourense/" target="_blank" rel="noopener">en Meetup</a>.</p><p>La charla es en <a href="http://magmaespacio.es/" target="_blank" rel="noopener">Magma Espacio</a>, <a href="https://www.google.com/maps/place/R%C3%BAa+Bedoya,+27,+32004+Ourense/@42.33913,-7.86022,17z/data=!3m1!4b1!4m5!3m4!1s0xd2ffec7c1fb1ed9:0xa0273bd578731d1e!8m2!3d42.33913!4d-7.86022?api=1&amp;query=R%C3%BAa+Bedoya%2C+27%2C+32004+Ourense%2C+Ourense%2C+es" target="_blank" rel="noopener">Rua Bedoya 27 Bajo</a> a las 20:00.</p><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2949.1591564000264!2d-7.860220000000001!3d42.33913!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd2ffec7c1fb1ed9%3A0xa0273bd578731d1e!2sR%C3%BAa+Bedoya%2C+27%2C+32004+Ourense!5e0!3m2!1sen!2ses!4v1515609233505" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;El Jueves, 15 de Marzo, tenemos la tercera reunión del grupo. Esta vez Fabio nos explicará cómo visualizar datos de forma sencilla con la
+      
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>Fronty.js - ¿Cómo funciona un framework?</title>
