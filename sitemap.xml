@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://ourense.javascript.gal/2018/11/programar-js-2018/</loc>
+    
+    <lastmod>2018-11-01T18:58:22.345Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://ourense.javascript.gal/2018/10/strapi/</loc>
+    
+    <lastmod>2018-11-01T18:40:10.380Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://ourense.javascript.gal/2018/07/charlas-relampago-md/</loc>
     
     <lastmod>2018-07-16T10:49:44.236Z</lastmod>
