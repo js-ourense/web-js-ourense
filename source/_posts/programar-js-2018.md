@@ -6,7 +6,7 @@ tags:
 
 El Jueves, 15 de Noviembre, volvemos con una nueva charla. Esta vez [Toni Martínez](https://github.com/tonimc),  hablará de la evolución de JavaScript en los útlimos años.
 
-{% asset_img 'toni-charla-js.jpg' %}
+{% asset_img 'toni-charla-js2018.jpg' %}
 
 Toni (desarrollador frontend en IBM Research) nos hablará de los cambios que se han introducido en Javascript, del ecosistema que le rodea y cómo poder usar estos cambios sin miedo a que no funcionen en el navegador de tus usuarios.
 
