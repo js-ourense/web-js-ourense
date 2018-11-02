@@ -4,7 +4,7 @@ date: 2018-11-01 19:41:48
 tags:
 ---
 
-El Jueves, 15 de Noviembre, volvemos con una nueva charla. Esta vez [Toni Martínez](https://github.com/tonimc),  hablará de la evolución de JavaScript en los útlimos años.
+El Jueves, 15 de Noviembre, volvemos con una nueva charla. Esta vez [Toni Martínez](https://github.com/tonimc), hablará de la evolución de JavaScript en los útlimos años.
 
 {% asset_img 'toni-charla-js2018.jpg' %}
 
