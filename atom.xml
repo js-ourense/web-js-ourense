@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://ourense.javascript.gal/"/>
-  <updated>2018-11-02T17:46:56.269Z</updated>
+  <updated>2018-12-07T12:13:03.567Z</updated>
   <id>http://ourense.javascript.gal/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>MongoDB</title>
+    <link href="http://ourense.javascript.gal/2018/12/mongodb-jose-constela/"/>
+    <id>http://ourense.javascript.gal/2018/12/mongodb-jose-constela/</id>
+    <published>2018-12-07T12:02:00.000Z</published>
+    <updated>2018-12-07T12:13:03.567Z</updated>
+    
+    <content type="html"><![CDATA[<p>Durante el Jueves 20 de Diciembre tendremos una nueva reunión en el grupo de JavaScript Ourense para hablar sobre MongoDB, la base de datos no relacional más usada por aplicaciones NodeJS.</p><img src="/2018/12/mongodb-jose-constela/mongodb.png"><p>Jose Constela (Dev consultant <a href="https://joseconstela.com" target="_blank" rel="noopener">https://joseconstela.com</a>) nos hablará sobre MongoDB, nos mostrará su potencia y cómo puedes hacer uso en tus proyecto hechos con JS.</p><ul><li>Operaciones CRUD</li><li>Queries complejas (+ geoespaciales)</li><li>Aggregation Framework y MapReduce</li><li>OpLog</li><li>Transacciones</li></ul><h1 id="Agenda"><a href="#Agenda" class="headerlink" title="Agenda"></a>Agenda</h1><p>20:00 - 21:10 Charla<br>21:10 Tiempo de Networking</p><p>Si quieres venir, confirma tu asistencia <a href="https://www.meetup.com/es-ES/jsourense/events/256998888/" target="_blank" rel="noopener">en Meetup</a>.</p><p>La charla es en <a href="http://magmaespacio.es/" target="_blank" rel="noopener">Magma Espacio</a>, <a href="https://www.google.com/maps/place/R%C3%BAa+Bedoya,+27,+32004+Ourense/@42.33913,-7.86022,17z/data=!3m1!4b1!4m5!3m4!1s0xd2ffec7c1fb1ed9:0xa0273bd578731d1e!8m2!3d42.33913!4d-7.86022?api=1&amp;query=R%C3%BAa+Bedoya%2C+27%2C+32004+Ourense%2C+Ourense%2C+es" target="_blank" rel="noopener">Rua Bedoya 27 Bajo</a> a las 20:00.</p><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2949.1591564000264!2d-7.860220000000001!3d42.33913!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd2ffec7c1fb1ed9%3A0xa0273bd578731d1e!2sR%C3%BAa+Bedoya%2C+27%2C+32004+Ourense!5e0!3m2!1sen!2ses!4v1515609233505" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Durante el Jueves 20 de Diciembre tendremos una nueva reunión en el grupo de JavaScript Ourense para hablar sobre MongoDB, la base de dat
+      
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>Entender y programar JS en 2018</title>
