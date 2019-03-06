@@ -7,7 +7,7 @@ tags:
 El Jueves, 14 de Marzo vuelven las charlas relámpago para hablar sobre cualquier tema relacionado con Javascript que te apetezca.
 
 En esta ocasión se hará una breve introducción a los siguientes temas:
-- ESLint y prettier / Martín Monina (Dev en [coinscrap](https://coinscrap.com/))
+- ESLint y prettier / Martín Monina (Dev en [Coinscrap](https://coinscrap.com/))
 - Preprocesadores CSS / Fabio Souto (Dev [Freenlance](https://fabiosouto.me/))
 - NPM / Moncho Pena (CTO en [RebellionPay](https://rebellionpay.com/))
 - Webpack / Toni Martínez (Dev en [IBM Research](http://www.research.ibm.com/))
