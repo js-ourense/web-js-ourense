@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://ourense.javascript.gal/"/>
-  <updated>2019-01-16T16:13:42.661Z</updated>
+  <updated>2019-03-06T11:41:53.677Z</updated>
   <id>http://ourense.javascript.gal/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Charlas relámpago</title>
+    <link href="http://ourense.javascript.gal/2019/03/charlas-relampago-js-tooling/"/>
+    <id>http://ourense.javascript.gal/2019/03/charlas-relampago-js-tooling/</id>
+    <published>2019-03-06T11:32:53.000Z</published>
+    <updated>2019-03-06T11:41:53.677Z</updated>
+    
+    <content type="html"><![CDATA[<p>El Jueves, 14 de Marzo vuelven las charlas relámpago para hablar sobre cualquier tema relacionado con Javascript que te apetezca.</p><p>En esta ocasión se hará una breve introducción a los siguientes temas:</p><ul><li>ESLint y prettier / Martín Monina (Dev en <a href="https://coinscrap.com/" target="_blank" rel="noopener">coinscrap</a>)</li><li>Preprocesadores CSS / Fabio Souto (Dev <a href="https://fabiosouto.me/" target="_blank" rel="noopener">Freenlance</a>)</li><li>NPM / Moncho Pena (CTO en <a href="https://rebellionpay.com/" target="_blank" rel="noopener">RebellionPay</a>)</li><li>Webpack / Toni Martínez (Dev en <a href="http://www.research.ibm.com/" target="_blank" rel="noopener">IBM Research</a>)</li></ul><img src="/2019/03/charlas-relampago-js-tooling/cartel_js_tooling.png"><h2 id="¿Que-es-una-charla-relampago"><a href="#¿Que-es-una-charla-relampago" class="headerlink" title="¿Qué és una charla relámpago?"></a>¿Qué és una charla relámpago?</h2><p>Es una minicharla de máximo 10 minutos de cualquier tema relacionado con JavaScript. Las charlas no tienen ronda de preguntas, pero puedes preguntar durante el tiempo de networking.</p><h2 id="¿Como-proponer-una-charla-para-futuros-meetups"><a href="#¿Como-proponer-una-charla-para-futuros-meetups" class="headerlink" title="¿Cómo proponer una charla para futuros meetups?"></a>¿Cómo proponer una charla para futuros meetups?</h2><ul><li>A través de el <a href="https://join.slack.com/t/javascript-ourense/shared_invite/enQtMjk2NjQyMzU0NTQ4LTA1ZjNiMDk3NGNhMTk3YjVjNzViNmM1NWVkZDZlMGQ5M2NjMjI2OGU3MDM1MTdhOTE0ZmUxMWI4ZGI5YzY2MTg" target="_blank" rel="noopener">Slack de JavaScript Ourense</a></li><li>En la propia reunión: antes de empezar preguntaremos quién quiere presentar.</li></ul><p>Si quieres venir, confirma tu asistencia <a href="https://www.meetup.com/es-ES/jsourense/events/259360978" target="_blank" rel="noopener">en Meetup</a>.</p><p>La charla es en <a href="http://magmaespacio.es/" target="_blank" rel="noopener">Magma Espacio</a>, <a href="https://www.google.com/maps/place/R%C3%BAa+Bedoya,+27,+32004+Ourense/@42.33913,-7.86022,17z/data=!3m1!4b1!4m5!3m4!1s0xd2ffec7c1fb1ed9:0xa0273bd578731d1e!8m2!3d42.33913!4d-7.86022?api=1&amp;query=R%C3%BAa+Bedoya%2C+27%2C+32004+Ourense%2C+Ourense%2C+es" target="_blank" rel="noopener">Rua Bedoya 27 Bajo</a> a las 20:00.</p><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2949.1591564000264!2d-7.860220000000001!3d42.33913!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd2ffec7c1fb1ed9%3A0xa0273bd578731d1e!2sR%C3%BAa+Bedoya%2C+27%2C+32004+Ourense!5e0!3m2!1sen!2ses!4v1515609233505" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;El Jueves, 14 de Marzo vuelven las charlas relámpago para hablar sobre cualquier tema relacionado con Javascript que te apetezca.&lt;/p&gt;
+&lt;p&gt;
+      
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>APIs made easy con Loopback 4</title>
