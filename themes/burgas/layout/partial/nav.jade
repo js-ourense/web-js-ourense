@@ -1,7 +1,7 @@
 ul.nav.nav-list
-    each value, key in theme.menu
+    for menu_item in theme.menu
         li.nav-list-item
             - var re = /^(http|https):\/\/*/gi;
-            - var act = !re.test(value) && "/"+page.current_url === value
-            a.nav-list-link(class={active: act} href=url_for(value))
-                != key.toUpperCase()
+            - var act = !re.test(menu_item.url) && "/"+page.current_url === menu_item.url
+            a.nav-list-link(class={active: act} href=url_for(menu_item.url) target=menu_item.target)
+                != menu_item.text.toUpperCase()
