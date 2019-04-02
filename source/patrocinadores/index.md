@@ -12,10 +12,10 @@ Si quieres patrocinar un evento ponte en contacto con nosotros a través de [nue
 Proporciona el local [Magma Espacio](https://www.magmaespacio.es/)
 [![Magma Espacio](/patrocinadores/magma_espacio.png#sponsor "Espacio para las charlas")](https://www.magmaespacio.es/)
 
-[José Constenla](https://joseconstela.com/) patrocinó las charlas [MongoDB](/2018/12/mongodb-jose-constela/) y [Entender y programar JS en 2018](/2018/11/programar-js-2018/)
-[![Jose Constenla](/patrocinadores/jose_constela2.png#sponsor "Espacio para las charlas")](https://joseconstela.com/)
+[José Constela](https://joseconstela.com/) patrocinó las charlas [MongoDB](/2018/12/mongodb-jose-constela/) y [Entender y programar JS en 2018](/2018/11/programar-js-2018/)
+[![Jose Constela](/patrocinadores/jose_constela2.png#sponsor "Espacio para las charlas")](https://joseconstela.com/)
 
-CoinScrap patrocinó la charla [APIs made easy con Loopback 4](/2019/01/apis-easy-loopback/)
+[CoinScrap](https://coinscrap.com/) patrocinó la charla [APIs made easy con Loopback 4](/2019/01/apis-easy-loopback/)
 [![CoinScrap](/patrocinadores/coinscrap.png#sponsor "")](https://coinscrap.com/)
 
 Dominio cortesía de [Dinahosting](https://dinahosting.com/)
