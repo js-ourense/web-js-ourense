@@ -5,6 +5,9 @@ menu:
 - text: Reuniones
   url: /reuniones
   target: _self
+- text: Patrocinadores
+  url: /patrocinadores
+  target: _self
 - text: Meetup
   url: https://www.meetup.com/es-ES/jsourense
   target: _blank
