@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Javascript Ourense</title>
+  
+  <subtitle>Grupo de programadores de JavaScript de Ourense</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://ourense.javascript.gal/"/>
+  <updated>2021-04-27T10:54:03.339Z</updated>
+  <id>http://ourense.javascript.gal/</id>
+  
+  <author>
+    <name>Grupo de programadores de JavaScript de Ourense</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Vue, un framework progresivo, reactivo y simple</title>
+    <link href="http://ourense.javascript.gal/2019/05/vuejs/"/>
+    <id>http://ourense.javascript.gal/2019/05/vuejs/</id>
+    <published>2019-05-15T12:31:20.000Z</published>
+    <updated>2021-04-27T10:54:03.339Z</updated>
+    
+    <content type="html"><![CDATA[<p>El Jueves, 23 de Mayo celebramos un nuevo meetup, esta vez sobre Vue.</p><p><a href="https://github.com/tonimc">Toni Martínez</a>(Senior Developer en <a href="http://www.research.ibm.com/">IBM Research</a>) nos hablará de la evolución que se ha vivido, estos últimos años, en el mundo del front-end y cómo Vue nos puede ayudar, de una forma sencilla, a adaptarnos a ella.</p><img src="/2019/05/vuejs/tonivue.jpeg" class=""><p>En esta charla Toni nos contará como construir una aplicación con <a href="https://vuejs.org/">Vue</a>, cómo poder crear componentes que insertes en aplicaciones existentes, cómo el sistema reactivo de vue te falicita la gestión del DOM, que herramientas te proporciona Vue para facilitar tu dia a dia… Además, estas explicaciones se realizarán con una aplicación de ejemplo a la que podrás acceder en GitHub.</p><h1 id="Agenda"><a href="#Agenda" class="headerlink" title="Agenda"></a>Agenda</h1><p>20:00 - 21:10 Charla<br>21:10 Tiempo de Networking</p><p>Si quieres venir, confirma tu asistencia <a href="https://www.meetup.com/es-ES/jsourense/events/261268238/">en Meetup</a>.</p><p>La charla es en <a href="http://magmaespacio.es/">Magma Espacio</a>, <a href="https://www.google.com/maps/place/R%C3%BAa+Bedoya,+27,+32004+Ourense/@42.33913,-7.86022,17z/data=!3m1!4b1!4m5!3m4!1s0xd2ffec7c1fb1ed9:0xa0273bd578731d1e!8m2!3d42.33913!4d-7.86022?api=1&amp;query=R%C3%BAa+Bedoya%2C+27%2C+32004+Ourense%2C+Ourense%2C+es">Rua Bedoya 27 Bajo</a> a las 20:00.</p><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2949.1591564000264!2d-7.860220000000001!3d42.33913!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd2ffec7c1fb1ed9%3A0xa0273bd578731d1e!2sR%C3%BAa+Bedoya%2C+27%2C+32004+Ourense!5e0!3m2!1sen!2ses!4v1515609233505" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;El Jueves, 23 de Mayo celebramos un nuevo meetup, esta vez sobre Vue.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/tonimc&quot;&gt;Toni Martínez&lt;/a&gt;(Senior
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Introducción al JAMStack</title>
+    <link href="http://ourense.javascript.gal/2019/04/jamstack/"/>
+    <id>http://ourense.javascript.gal/2019/04/jamstack/</id>
+    <published>2019-04-13T13:41:30.000Z</published>
+    <updated>2021-04-27T10:54:03.303Z</updated>
+    
+    <content type="html"><![CDATA[<p>El Viernes, 26 de Abril celebramos un nuevo meetup, esta vez sobre <a href="https://jamstack.org/">JAMStack</a>.</p><img src="/2019/04/jamstack/azaustre.jpeg" class=""><p><a href="https://carlosazaustre.es/">Carlos Azaustre</a> (Dev en IBMResearch) hará una charla introductoria sobre JAM stack para la generación de sitios web estáticos. Qué es, de dónde viene y dónde lo podemos aplicar.</p><h1 id="Agenda"><a href="#Agenda" class="headerlink" title="Agenda"></a>Agenda</h1><p>20:00 - 21:10 Charla<br>21:10 Tiempo de Networking</p><p>Si quieres venir, confirma tu asistencia <a href="https://www.meetup.com/es-ES/jsourense/events/260341242/">en Meetup</a>.</p><p>La charla es en <a href="http://magmaespacio.es/">Magma Espacio</a>, <a href="https://www.google.com/maps/place/R%C3%BAa+Bedoya,+27,+32004+Ourense/@42.33913,-7.86022,17z/data=!3m1!4b1!4m5!3m4!1s0xd2ffec7c1fb1ed9:0xa0273bd578731d1e!8m2!3d42.33913!4d-7.86022?api=1&amp;query=R%C3%BAa+Bedoya%2C+27%2C+32004+Ourense%2C+Ourense%2C+es">Rua Bedoya 27 Bajo</a> a las 20:00.</p><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2949.1591564000264!2d-7.860220000000001!3d42.33913!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd2ffec7c1fb1ed9%3A0xa0273bd578731d1e!2sR%C3%BAa+Bedoya%2C+27%2C+32004+Ourense!5e0!3m2!1sen!2ses!4v1515609233505" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;El Viernes, 26 de Abril celebramos un nuevo meetup, esta vez sobre &lt;a href=&quot;https://jamstack.org/&quot;&gt;JAMStack&lt;/a&gt;.&lt;/p&gt;
+&lt;img src=&quot;/2019/04/j
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Charlas relámpago</title>
+    <link href="http://ourense.javascript.gal/2019/03/charlas-relampago-js-tooling/"/>
+    <id>http://ourense.javascript.gal/2019/03/charlas-relampago-js-tooling/</id>
+    <published>2019-03-06T11:32:53.000Z</published>
+    <updated>2021-04-27T10:54:03.282Z</updated>
+    
+    <content type="html"><![CDATA[<p>El Jueves, 14 de Marzo vuelven las charlas relámpago para hablar sobre cualquier tema relacionado con Javascript que te apetezca.</p><p>En esta ocasión se hará una breve introducción a los siguientes temas:</p><ul><li>ESLint y prettier / Martín Monina (Dev en <a href="https://coinscrap.com/">Coinscrap</a>)</li><li>Preprocesadores CSS / Fabio Souto (Dev <a href="https://fabiosouto.me/">Freenlance</a>)</li><li>NPM / Moncho Pena (CTO en <a href="https://rebellionpay.com/">RebellionPay</a>)</li><li>Webpack / Toni Martínez (Dev en <a href="http://www.research.ibm.com/">IBM Research</a>)</li></ul><img src="/2019/03/charlas-relampago-js-tooling/cartel_js_tooling.png" class=""><h2 id="¿Que-es-una-charla-relampago"><a href="#¿Que-es-una-charla-relampago" class="headerlink" title="¿Qué és una charla relámpago?"></a>¿Qué és una charla relámpago?</h2><p>Es una minicharla de máximo 10 minutos de cualquier tema relacionado con JavaScript. Las charlas no tienen ronda de preguntas, pero puedes preguntar durante el tiempo de networking.</p><h2 id="¿Como-proponer-una-charla-para-futuros-meetups"><a href="#¿Como-proponer-una-charla-para-futuros-meetups" class="headerlink" title="¿Cómo proponer una charla para futuros meetups?"></a>¿Cómo proponer una charla para futuros meetups?</h2><ul><li>A través de el <a href="https://join.slack.com/t/javascript-ourense/shared_invite/enQtMjk2NjQyMzU0NTQ4LTA1ZjNiMDk3NGNhMTk3YjVjNzViNmM1NWVkZDZlMGQ5M2NjMjI2OGU3MDM1MTdhOTE0ZmUxMWI4ZGI5YzY2MTg">Slack de JavaScript Ourense</a></li><li>En la propia reunión: antes de empezar preguntaremos quién quiere presentar.</li></ul><p>Si quieres venir, confirma tu asistencia <a href="https://www.meetup.com/es-ES/jsourense/events/259360978">en Meetup</a>.</p><p>La charla es en <a href="http://magmaespacio.es/">Magma Espacio</a>, <a href="https://www.google.com/maps/place/R%C3%BAa+Bedoya,+27,+32004+Ourense/@42.33913,-7.86022,17z/data=!3m1!4b1!4m5!3m4!1s0xd2ffec7c1fb1ed9:0xa0273bd578731d1e!8m2!3d42.33913!4d-7.86022?api=1&amp;query=R%C3%BAa+Bedoya%2C+27%2C+32004+Ourense%2C+Ourense%2C+es">Rua Bedoya 27 Bajo</a> a las 20:00.</p><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2949.1591564000264!2d-7.860220000000001!3d42.33913!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd2ffec7c1fb1ed9%3A0xa0273bd578731d1e!2sR%C3%BAa+Bedoya%2C+27%2C+32004+Ourense!5e0!3m2!1sen!2ses!4v1515609233505" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;El Jueves, 14 de Marzo vuelven las charlas relámpago para hablar sobre cualquier tema relacionado con Javascript que te apetezca.&lt;/p&gt;
+&lt;p&gt;
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>APIs made easy con Loopback 4</title>
+    <link href="http://ourense.javascript.gal/2019/01/apis-easy-loopback/"/>
+    <id>http://ourense.javascript.gal/2019/01/apis-easy-loopback/</id>
+    <published>2019-01-16T16:04:12.000Z</published>
+    <updated>2021-04-27T10:54:03.280Z</updated>
+    
+    <content type="html"><![CDATA[<p>El Jueves 24 de Enero tendremos una nueva reunión en el grupo de JavaScript Ourense sobre <a href="https://v4.loopback.io/">Loopback 4</a>, plataforma para construir APIs y microservicios en Node.js</p><img src="/2019/01/apis-easy-loopback/cartel-loopback.png" class=""><p><a href="https://github.com/tomymolina">Martín Molina</a> (desarrollador en <a href="https://coinscrap.com/">Coinscrap</a>) nos hablará sobre la nueva versión de Loopback, nos mostrará cómo crear APIs de forma rápida y sencilla haciendo uso de los últimos avances introducidos en ES2017 y <a href="https://www.typescriptlang.org/">Typescript</a>.</p><h1 id="Agenda"><a href="#Agenda" class="headerlink" title="Agenda"></a>Agenda</h1><p>20:00 - 21:10 Charla<br>21:10 Tiempo de Networking</p><p>Si quieres venir, confirma tu asistencia <a href="https://www.meetup.com/es-ES/jsourense/events/258091487/">en Meetup</a>.</p><p>La charla es en <a href="http://magmaespacio.es/">Magma Espacio</a>, <a href="https://www.google.com/maps/place/R%C3%BAa+Bedoya,+27,+32004+Ourense/@42.33913,-7.86022,17z/data=!3m1!4b1!4m5!3m4!1s0xd2ffec7c1fb1ed9:0xa0273bd578731d1e!8m2!3d42.33913!4d-7.86022?api=1&amp;query=R%C3%BAa+Bedoya%2C+27%2C+32004+Ourense%2C+Ourense%2C+es">Rua Bedoya 27 Bajo</a> a las 20:00.</p><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2949.1591564000264!2d-7.860220000000001!3d42.33913!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd2ffec7c1fb1ed9%3A0xa0273bd578731d1e!2sR%C3%BAa+Bedoya%2C+27%2C+32004+Ourense!5e0!3m2!1sen!2ses!4v1515609233505" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;El Jueves 24 de Enero tendremos una nueva reunión en el grupo de JavaScript Ourense sobre &lt;a href=&quot;https://v4.loopback.io/&quot;&gt;Loopback 4&lt;/a
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>MongoDB</title>
+    <link href="http://ourense.javascript.gal/2018/12/mongodb-jose-constela/"/>
+    <id>http://ourense.javascript.gal/2018/12/mongodb-jose-constela/</id>
+    <published>2018-12-07T12:02:00.000Z</published>
+    <updated>2021-04-27T10:54:03.305Z</updated>
+    
+    <content type="html"><![CDATA[<p>Durante el Jueves 20 de Diciembre tendremos una nueva reunión en el grupo de JavaScript Ourense para hablar sobre MongoDB, la base de datos no relacional más usada por aplicaciones NodeJS.</p><img src="/2018/12/mongodb-jose-constela/mongodb.png" class=""><p>Jose Constela (Dev consultant <a href="https://joseconstela.com">https://joseconstela.com</a>) nos hablará sobre MongoDB, nos mostrará su potencia y cómo puedes hacer uso en tus proyecto hechos con JS.</p><ul><li>Operaciones CRUD</li><li>Queries complejas (+ geoespaciales)</li><li>Aggregation Framework y MapReduce</li><li>OpLog</li><li>Transacciones</li></ul><h1 id="Agenda"><a href="#Agenda" class="headerlink" title="Agenda"></a>Agenda</h1><p>20:00 - 21:10 Charla<br>21:10 Tiempo de Networking</p><p>Si quieres venir, confirma tu asistencia <a href="https://www.meetup.com/es-ES/jsourense/events/256998888/">en Meetup</a>.</p><p>La charla es en <a href="http://magmaespacio.es/">Magma Espacio</a>, <a href="https://www.google.com/maps/place/R%C3%BAa+Bedoya,+27,+32004+Ourense/@42.33913,-7.86022,17z/data=!3m1!4b1!4m5!3m4!1s0xd2ffec7c1fb1ed9:0xa0273bd578731d1e!8m2!3d42.33913!4d-7.86022?api=1&amp;query=R%C3%BAa+Bedoya%2C+27%2C+32004+Ourense%2C+Ourense%2C+es">Rua Bedoya 27 Bajo</a> a las 20:00.</p><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2949.1591564000264!2d-7.860220000000001!3d42.33913!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd2ffec7c1fb1ed9%3A0xa0273bd578731d1e!2sR%C3%BAa+Bedoya%2C+27%2C+32004+Ourense!5e0!3m2!1sen!2ses!4v1515609233505" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Durante el Jueves 20 de Diciembre tendremos una nueva reunión en el grupo de JavaScript Ourense para hablar sobre MongoDB, la base de dat
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Entender y programar JS en 2018</title>
+    <link href="http://ourense.javascript.gal/2018/11/programar-js-2018/"/>
+    <id>http://ourense.javascript.gal/2018/11/programar-js-2018/</id>
+    <published>2018-11-01T18:41:48.000Z</published>
+    <updated>2021-04-27T10:54:03.308Z</updated>
+    
+    <content type="html"><![CDATA[<p>El Jueves, 15 de Noviembre, volvemos con una nueva charla. Esta vez <a href="https://github.com/tonimc">Toni Martínez</a>, hablará de la evolución de JavaScript en los útlimos años.</p><img src="/2018/11/programar-js-2018/toni-charla-js2018.jpg" class=""><p>Toni (desarrollador frontend en IBM Research) nos hablará de los cambios que se han introducido en Javascript, del ecosistema que le rodea y cómo poder usar estos cambios sin miedo a que no funcionen en el navegador de tus usuarios.</p><h1 id="Agenda"><a href="#Agenda" class="headerlink" title="Agenda"></a>Agenda</h1><p>20:00 - 21:00 Charla<br>21:00 Tiempo de Networking</p><p>Si quieres venir, confirma tu asistencia <a href="https://www.meetup.com/es-ES/jsourense/events/255961706/">en Meetup</a>.</p><p>La charla es en <a href="http://magmaespacio.es/">Magma Espacio</a>, <a href="https://www.google.com/maps/place/R%C3%BAa+Bedoya,+27,+32004+Ourense/@42.33913,-7.86022,17z/data=!3m1!4b1!4m5!3m4!1s0xd2ffec7c1fb1ed9:0xa0273bd578731d1e!8m2!3d42.33913!4d-7.86022?api=1&amp;query=R%C3%BAa+Bedoya%2C+27%2C+32004+Ourense%2C+Ourense%2C+es">Rua Bedoya 27 Bajo</a> a las 20:00.</p><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2949.1591564000264!2d-7.860220000000001!3d42.33913!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd2ffec7c1fb1ed9%3A0xa0273bd578731d1e!2sR%C3%BAa+Bedoya%2C+27%2C+32004+Ourense!5e0!3m2!1sen!2ses!4v1515609233505" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;El Jueves, 15 de Noviembre, volvemos con una nueva charla. Esta vez &lt;a href=&quot;https://github.com/tonimc&quot;&gt;Toni Martínez&lt;/a&gt;, hablará de la 
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Haciendo APIs con Strapi “like a boss”</title>
+    <link href="http://ourense.javascript.gal/2018/10/strapi/"/>
+    <id>http://ourense.javascript.gal/2018/10/strapi/</id>
+    <published>2018-10-15T13:00:00.000Z</published>
+    <updated>2021-04-27T10:54:03.322Z</updated>
+    
+    <content type="html"><![CDATA[<p>El Jueves, 18 de Octubre, volvemos a la carga. En esta ocasión, <a href="https://github.com/monchopena">Moncho Pena</a>, nos hablará de como construir una API con el CMF (Content Management Framework) llamado <a href="https://strapi.io/">Strapi</a>.</p><img src="/2018/10/strapi/moncho-strapi.png" class=""><h1 id="Sobre-Strapi"><a href="#Sobre-Strapi" class="headerlink" title="Sobre Strapi"></a>Sobre Strapi</h1><p>Muchas veces empezamos a trabajar con una API y nos olvidamos del Backoffice. <a href="https://strapi.io/">Strapi</a> es una herrmienta que nos permite crear rápidamente una API sólida, que además, va a disponer de una gestión muy elegante y sencilla.</p><p>Existen numerosos plugins que nos permiten agregar nuevas funcionalidades como por ejemplo <a href="https://github.com/strapi/strapi/tree/master/packages/strapi-upload-aws-s3">Amazon S3</a>.</p><h1 id="Agenda"><a href="#Agenda" class="headerlink" title="Agenda"></a>Agenda</h1><p>20:00 - 21:00 Haciendo APIs con Strapi “like a boss”<br>21:00 Tiempo de Networking</p><p>Si quieres venir, confirma tu asistencia <a href="https://www.meetup.com/es-ES/jsourense/">en Meetup</a>.</p><p>La charla es en <a href="http://magmaespacio.es/">Magma Espacio</a>, <a href="https://www.google.com/maps/place/R%C3%BAa+Bedoya,+27,+32004+Ourense/@42.33913,-7.86022,17z/data=!3m1!4b1!4m5!3m4!1s0xd2ffec7c1fb1ed9:0xa0273bd578731d1e!8m2!3d42.33913!4d-7.86022?api=1&amp;query=R%C3%BAa+Bedoya%2C+27%2C+32004+Ourense%2C+Ourense%2C+es">Rua Bedoya 27 Bajo</a> a las 20:00.</p><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2949.1591564000264!2d-7.860220000000001!3d42.33913!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd2ffec7c1fb1ed9%3A0xa0273bd578731d1e!2sR%C3%BAa+Bedoya%2C+27%2C+32004+Ourense!5e0!3m2!1sen!2ses!4v1515609233505" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;El Jueves, 18 de Octubre, volvemos a la carga. En esta ocasión, &lt;a href=&quot;https://github.com/monchopena&quot;&gt;Moncho Pena&lt;/a&gt;, nos hablará de c
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Charlas relámpago</title>
+    <link href="http://ourense.javascript.gal/2018/07/charlas-relampago-md/"/>
+    <id>http://ourense.javascript.gal/2018/07/charlas-relampago-md/</id>
+    <published>2018-07-16T10:43:31.000Z</published>
+    <updated>2021-04-27T10:54:03.284Z</updated>
+    
+    <content type="html"><![CDATA[<p>El Jueves, 26 de Julio, volvemos a la carga. En esta ocasión, haremos charlas relámpago.</p><h3 id="¿Que-es-una-charla-relampago"><a href="#¿Que-es-una-charla-relampago" class="headerlink" title="¿Qué és una charla relámpago?"></a>¿Qué és una charla relámpago?</h3><p>Es una minicharla de máximo 7 minutos de cualquier tema relacionado con JavaScript. Las charlas no tienen ronda de preguntas, pero puedes preguntar durante el tiempo de networking.</p><h3 id="¿Como-proponer-una-charla"><a href="#¿Como-proponer-una-charla" class="headerlink" title="¿Cómo proponer una charla?"></a>¿Cómo proponer una charla?</h3><ul><li>A través de el <a href="https://join.slack.com/t/javascript-ourense/shared_invite/enQtMjk2NjQyMzU0NTQ4LTA1ZjNiMDk3NGNhMTk3YjVjNzViNmM1NWVkZDZlMGQ5M2NjMjI2OGU3MDM1MTdhOTE0ZmUxMWI4ZGI5YzY2MTg">Slack de JavaScript Ourense</a></li><li>En la propia reunión: antes de empezar preguntaremos quién quiere presentar.</li></ul><h3 id="AGENDA"><a href="#AGENDA" class="headerlink" title="AGENDA"></a>AGENDA</h3><p>20:00 - 21:00 Charlas relámpago<br>21:00 Tiempo de Networking</p><p>Si quieres venir, confirma tu asistencia <a href="https://www.meetup.com/es-ES/jsourense/">en Meetup</a>.</p><p>La charla es en <a href="http://magmaespacio.es/">Magma Espacio</a>, <a href="https://www.google.com/maps/place/R%C3%BAa+Bedoya,+27,+32004+Ourense/@42.33913,-7.86022,17z/data=!3m1!4b1!4m5!3m4!1s0xd2ffec7c1fb1ed9:0xa0273bd578731d1e!8m2!3d42.33913!4d-7.86022?api=1&amp;query=R%C3%BAa+Bedoya%2C+27%2C+32004+Ourense%2C+Ourense%2C+es">Rua Bedoya 27 Bajo</a> a las 20:00.</p><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2949.1591564000264!2d-7.860220000000001!3d42.33913!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd2ffec7c1fb1ed9%3A0xa0273bd578731d1e!2sR%C3%BAa+Bedoya%2C+27%2C+32004+Ourense!5e0!3m2!1sen!2ses!4v1515609233505" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;El Jueves, 26 de Julio, volvemos a la carga. En esta ocasión, haremos charlas relámpago.&lt;/p&gt;
+&lt;h3 id=&quot;¿Que-es-una-charla-relampago&quot;&gt;&lt;a hre
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Introducción a React Native</title>
+    <link href="http://ourense.javascript.gal/2018/06/react-native-introduccion/"/>
+    <id>http://ourense.javascript.gal/2018/06/react-native-introduccion/</id>
+    <published>2018-06-21T18:11:41.000Z</published>
+    <updated>2021-04-27T10:54:03.309Z</updated>
+    
+    <content type="html"><![CDATA[<p>El Jueves, 21 de Junio, con la llegada del verano, tenemos la cuarta reunión del grupo. Esta vez Martín nos explicará cómo hacer una aplicación móvil de forma sencilla utilizando React Native.</p><img src="/2018/06/react-native-introduccion/martin.react.native.2018.06.21.png" class=""><p>Descripción de la charla:</p><p>Martín nos pondrá al día de las últimas novedades de React Native. Nos mostrará ejemplos muy útiles, y al final de la charla, seguro que todos sabremos como hacer un “Hola mundo” en React Native ¡Y sólo tenemos que saber JavaScript!</p><p>React Native: permite crear aplicaciones móviles usando solo JavaScript. Utiliza el mismo diseño que React, lo que le permite componer una interfaz de usuario móvil rica a partir de componentes declarativos… (Fuente: <a href="https://facebook.github.io/react-native/">Facebook React Native</a>).</p><p>Ponente: Martín Molina</p><p>AGENDA<br>20:00 - 21:10 =&gt; Charla<br>21:10 =&gt; Tiempo de Networking</p><p>Si quieres venir, confirma tu asistencia <a href="https://www.meetup.com/es-ES/jsourense/">en Meetup</a>.</p><p>La charla es en <a href="http://magmaespacio.es/">Magma Espacio</a>, <a href="https://www.google.com/maps/place/R%C3%BAa+Bedoya,+27,+32004+Ourense/@42.33913,-7.86022,17z/data=!3m1!4b1!4m5!3m4!1s0xd2ffec7c1fb1ed9:0xa0273bd578731d1e!8m2!3d42.33913!4d-7.86022?api=1&amp;query=R%C3%BAa+Bedoya%2C+27%2C+32004+Ourense%2C+Ourense%2C+es">Rua Bedoya 27 Bajo</a> a las 20:00.</p><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2949.1591564000264!2d-7.860220000000001!3d42.33913!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd2ffec7c1fb1ed9%3A0xa0273bd578731d1e!2sR%C3%BAa+Bedoya%2C+27%2C+32004+Ourense!5e0!3m2!1sen!2ses!4v1515609233505" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;El Jueves, 21 de Junio, con la llegada del verano, tenemos la cuarta reunión del grupo. Esta vez Martín nos explicará cómo hacer una apli
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Visualizando datos con D3</title>
+    <link href="http://ourense.javascript.gal/2018/03/visualizando-datos-con-d3/"/>
+    <id>http://ourense.javascript.gal/2018/03/visualizando-datos-con-d3/</id>
+    <published>2018-03-15T17:38:41.000Z</published>
+    <updated>2021-04-27T10:54:03.324Z</updated>
+    
+    <content type="html"><![CDATA[<p>El Jueves, 15 de Marzo, tenemos la tercera reunión del grupo. Esta vez Fabio nos explicará cómo visualizar datos de forma sencilla con la librería de gráficos D3.</p><img src="/2018/03/visualizando-datos-con-d3/fabio.d3.png" class=""><p>Descripción de la charla:</p><p>Fabio nos pondrá al día de las últimas novedades de la Librería D3. Nos mostrará ejemplos muy útiles que darán vida a nuestras aplicaciones ¡Y sólo tenemos que saber JavaScript!</p><p>D3.js (o simplemente D3 por las siglas de Data-Driven Documents) es una librería de JavaScript para producir, a partir de datos, infogramas dinámicos e interactivos en navegadores web. Hace uso de tecnologías bien sustentadas como SVG, HTML5, y CSS. (Fuente: <a href="https://es.wikipedia.org/wiki/D3.js">Wikipedia</a>).</p><p>Ponente: Fabio Souto</p><p>AGENDA<br>20:00 - 21:10 =&gt; Charla<br>21:10 =&gt; Tiempo de Networking</p><p>Si quieres venir, confirma tu asistencia <a href="https://www.meetup.com/es-ES/jsourense/">en Meetup</a>.</p><p>La charla es en <a href="http://magmaespacio.es/">Magma Espacio</a>, <a href="https://www.google.com/maps/place/R%C3%BAa+Bedoya,+27,+32004+Ourense/@42.33913,-7.86022,17z/data=!3m1!4b1!4m5!3m4!1s0xd2ffec7c1fb1ed9:0xa0273bd578731d1e!8m2!3d42.33913!4d-7.86022?api=1&amp;query=R%C3%BAa+Bedoya%2C+27%2C+32004+Ourense%2C+Ourense%2C+es">Rua Bedoya 27 Bajo</a> a las 20:00.</p><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2949.1591564000264!2d-7.860220000000001!3d42.33913!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd2ffec7c1fb1ed9%3A0xa0273bd578731d1e!2sR%C3%BAa+Bedoya%2C+27%2C+32004+Ourense!5e0!3m2!1sen!2ses!4v1515609233505" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;El Jueves, 15 de Marzo, tenemos la tercera reunión del grupo. Esta vez Fabio nos explicará cómo visualizar datos de forma sencilla con la
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Fronty.js - ¿Cómo funciona un framework?</title>
+    <link href="http://ourense.javascript.gal/2018/01/fronty-como-funciona-framework/"/>
+    <id>http://ourense.javascript.gal/2018/01/fronty-como-funciona-framework/</id>
+    <published>2018-01-25T17:38:41.000Z</published>
+    <updated>2021-04-27T10:54:03.284Z</updated>
+    
+    <content type="html"><![CDATA[<p>El Jueves, 15 de Febrero, tenemos la segunda reunión del grupo. Esta vez <a href="https://github.com/lipido">Daniel González Peña</a> nos explicará como funciona un framework de frontend usando como ejemplo <a href="https://lipido.github.io/fronty.js/">Fronty.js</a>.</p><img src="/2018/01/fronty-como-funciona-framework/fronty.png" class=""><p>Fronty.js es una librería de frontend hecha con fines didácticos, tiene menos de 1000 líneas de código y no requiere de librerías de terceros así que es perfecta para entender que hacen otros frameworks como React o Vue. </p><p>Si quieres venir, confirma tu asistencia <a href="https://www.meetup.com/es-ES/jsourense/">en Meetup</a>.</p><p>La charla es en <a href="http://magmaespacio.es/">Magma Espacio</a>, <a href="https://www.google.com/maps/place/R%C3%BAa+Bedoya,+27,+32004+Ourense/@42.33913,-7.86022,17z/data=!3m1!4b1!4m5!3m4!1s0xd2ffec7c1fb1ed9:0xa0273bd578731d1e!8m2!3d42.33913!4d-7.86022?api=1&amp;query=R%C3%BAa+Bedoya%2C+27%2C+32004+Ourense%2C+Ourense%2C+es">Rua Bedoya 27 Bajo</a> a las 20:00</p><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2949.1591564000264!2d-7.860220000000001!3d42.33913!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd2ffec7c1fb1ed9%3A0xa0273bd578731d1e!2sR%C3%BAa+Bedoya%2C+27%2C+32004+Ourense!5e0!3m2!1sen!2ses!4v1515609233505" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;El Jueves, 15 de Febrero, tenemos la segunda reunión del grupo. Esta vez &lt;a href=&quot;https://github.com/lipido&quot;&gt;Daniel González Peña&lt;/a&gt; nos
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Introducción a ReactJS</title>
+    <link href="http://ourense.javascript.gal/2018/01/introduccion-react/"/>
+    <id>http://ourense.javascript.gal/2018/01/introduccion-react/</id>
+    <published>2018-01-10T18:29:15.000Z</published>
+    <updated>2021-04-27T10:54:03.292Z</updated>
+    
+    <content type="html"><![CDATA[<p>El Jueves, 25 de Enero, celebramos nuestra primera reunión del grupo. Para esta ocasión especial, <a href="https://github.com/monchopena">Moncho Pena</a> nos hará una introducción a <a href="https://reactjs.org/">ReactJS</a>. Moncho Pena es el CTO de <a href="https://rebellioncard.com/">Rebellion</a></p><img src="/2018/01/introduccion-react/moncho-react.jpeg" class=""><p>Moncho nos enseñará en que consiste ReactJS, una biblioteca Javascript de código abierto que ha revolucionado la forma en la que se programa en el FrontEnd y que tiene un amplio ecosistema a su alrededor de librerias y empresas que lo usan.</p><p>Si quieres venir, confirma tu asistencia <a href="https://www.meetup.com/es-ES/jsourense/events/246639661/">en Meetup</a>.</p><p>La charla es en <a href="http://magmaespacio.es/">Magma Espacio</a>, <a href="https://www.google.com/maps/place/R%C3%BAa+Bedoya,+27,+32004+Ourense/@42.33913,-7.86022,17z/data=!3m1!4b1!4m5!3m4!1s0xd2ffec7c1fb1ed9:0xa0273bd578731d1e!8m2!3d42.33913!4d-7.86022?api=1&amp;query=R%C3%BAa+Bedoya%2C+27%2C+32004+Ourense%2C+Ourense%2C+es">Rua Bedoya 27 Bajo</a> a las 20:00</p><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2949.1591564000264!2d-7.860220000000001!3d42.33913!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd2ffec7c1fb1ed9%3A0xa0273bd578731d1e!2sR%C3%BAa+Bedoya%2C+27%2C+32004+Ourense!5e0!3m2!1sen!2ses!4v1515609233505" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;El Jueves, 25 de Enero, celebramos nuestra primera reunión del grupo. Para esta ocasión especial, &lt;a href=&quot;https://github.com/monchopena&quot;
+      
+    
+    </summary>
+    
+    
+      <category term="react, frameworks" scheme="http://ourense.javascript.gal/tags/react-frameworks/"/>
+    
+  </entry>
+  
+</feed>
