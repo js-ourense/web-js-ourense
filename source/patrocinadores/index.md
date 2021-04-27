@@ -18,8 +18,5 @@ Proporciona el local [Magma Espacio](https://www.magmaespacio.es/)
 [CoinScrap](https://coinscrap.com/) patrocinó la charla [APIs made easy con Loopback 4](/2019/01/apis-easy-loopback/)
 [![CoinScrap](/patrocinadores/coinscrap.png#sponsor "")](https://coinscrap.com/)
 
-Dominio cortesía de [Dinahosting](https://dinahosting.com/)
-[![Dinahosting](/patrocinadores/dinahosting.jpg#sponsor "Dominio")](https://dinahosting.com/)
-
 En cada Meetup sorteamos licencias de productos de [JetBrains](https://www.jetbrains.com/)
 [![JetBrains](/patrocinadores/jetbrains.png#sponsor "Licencias de software")](https://www.jetbrains.com/)
